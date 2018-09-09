@@ -1,9 +1,5 @@
 # Final Project
 
-Please fill out the proposal below. The range of projects for this course is wide, and can be anything Systems related (Even topics we have not covered such as databases, security, etc). The sidequests listed on the webpage may be example projects, or you may want to take a homework/lab substantially further. For your final project, think of this as a project that takes about 3x the effort of a homework. You may use other Systems languages(D, C++, Go, Rust, etc.) if it makes sense for the domain of the problem you are trying to solve.
-
-For the final project you are expected to have a functioning tool, application, library, or framework that I can run. Additional deliverables will include a brief writeup and video demonstrating your tool in action. I see the final project as something you can be proud to put on your resume/portfolio!
-
 ### In one sentence, describe your project.
 
 We are going to build a shared network snake game for synchronizing network data / messages to have smooth gameplay performance.
