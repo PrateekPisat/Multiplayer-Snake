@@ -4,19 +4,6 @@ Please fill out the proposal below. The range of projects for this course is wid
 
 For the final project you are expected to have a functioning tool, application, library, or framework that I can run. Additional deliverables will include a brief writeup and video demonstrating your tool in action. I see the final project as something you can be proud to put on your resume/portfolio!
 
-## Proposal
-
-** Fill this part out by July 3rd **
-
-Who will you be working with (Max of 3 members--working solo is fine if you choose)?
-  * Teammate 1: Derek Ching
-  * Teammate 2: Ishan Patel
-  * Teammate 3: Prateek Pisat
-
-If you are looking for team members, you can use this spreadsheet to get in contact with folks and make a pitch.
-(Your final team members information should be in the spreadsheet and in this README.md)
-https://docs.google.com/spreadsheets/d/1Yg2_M6U9mx8hfAS10NH5fpNh-1u56QESIhnuEQGn1Ow/edit?usp=sharing
-
 ### In one sentence, describe your project.
 
 We are going to build a shared network snake game for synchronizing network data / messages to have smooth gameplay performance.
@@ -52,9 +39,3 @@ https://www.dreamincode.net/forums/topic/402599-computer-networking-two-player-i
 ### What is the biggest problem you foresee or question you need to answer to get started?
 
 I do not know anything about how timing delays on a network may impact game performance. Reading through the documentation of shared network games, a main issue constantly feared in the gaming world, is when one player/client sees an image of another player/character, how there is a "lag time disposition". We may have apply techniques inside and outside of class to deal with things like thread synchronization between the network data and local game data to improve lossy fps.
-
-### Instructor Feedback
-
-*Your instructor will write a short note here if this is an acceptable project.*
-
-*Your instructor will give you some range of the grade you can earn if you meet all of your deliverables.* e.g. [B+/A-/A]
